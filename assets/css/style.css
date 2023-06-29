@@ -1,0 +1,166 @@
+.main-header {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    padding: 10px;
+    background: rgb(123, 122, 203);
+    color: #fff;
+    font-family: 'Arial';
+    font-size: 20px;
+    font-weight: 500;
+    color: rgb(29, 10, 94);
+    
+}
+
+.hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("/Users/wyattdronen/bootcamp/homework/student-bio/assets/images/water.jpeg");
+    background-size: cover;
+    background-position: center;
+}
+
+.selfie {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  align-content: center;
+  border-radius: 50%;
+}
+
+.body {
+    align-items: center;
+    font-family: Arial;
+    margin: 0;
+}
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+    margin-top: 0%;
+    margin-bottom: 50px;
+  }
+  
+  button {
+    width: 100px;
+    margin: 0 .5%;
+    font-size: 100%;
+    color: #13293d;
+    background-color: #fff;
+    border: 3px solid #13293d;
+  }
+  
+  button:hover {
+    background-color: rgb(16, 15, 99);
+    color: #fff;
+  }
+  
+  button:active {
+    font-size: 180%;
+    box-shadow: 0 0 10px #000 inset;
+  }
+  
+  button:focus {
+    outline: none;
+    border-color: #8ac4ff;
+  }
+  section {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+  }
+.work {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  align-content: center;
+  border-radius: 50%;
+}
+.pride {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  align-content: center;
+  border-radius: 50%;
+}
+.buzz {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  align-content: center;
+  border-radius: 50%;
+}
+.coder {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100px;
+  height: 100px;
+  padding: 10px;
+  align-content: center;
+  border-radius: 50%;
+}
+.work:hover {
+  border: 2px solid #fff;
+}
+.pride:hover {
+  border: 2px solid #fff;
+}
+.buzz:hover {
+  border: 2px solid #fff;
+}
+.coder:hover {
+  border: 2px solid #fff;
+}
+
+.center {
+  
+    margin: auto;
+    width: 50%;
+    border: 3px solid rgb(16, 15, 99);
+    padding: 20px;
+    background-color: rgb(141, 188, 188);
+
+  }
+
+.wide {
+    font-family: 'Franklin Gothic Medium';
+    font-size: 60px;
+    font-weight: 500;
+    color: rgb(29, 10, 94);
+    
+}
+main p {
+    font-family: 'Arial';
+    font-size: 15px;
+    font-weight: 20;
+    line-height: 2;
+    color: rgb(29, 10, 94);
+    
+}
+ul {
+  list-style-type: none;
+}
+
+.container {
+    font-family: 'Arial';
+    padding: 10px;
+    align-items: center;
+    width: 25%;
+  
+}

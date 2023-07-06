@@ -2,7 +2,7 @@
 
 
 
-In the README screenshot provided, I have content for empoyment, contacting, as well as so bio information about me.
+In the README screenshot provided, I have content for empoyment, contacting, as well as so bio information about me. The images in the body and navigation bar should direct you to links.
 
 
 ```
